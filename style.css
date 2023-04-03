@@ -5,8 +5,8 @@
 }
 
 :root {
-    --primary-color: #00539CFF;
-    --secondary-color: #EEA47FFF;
+    --primary-color: #077b8a;
+    --secondary-color: #a2d5c6;
 }
 
 
@@ -64,6 +64,10 @@ hr {
     background-color: var(--secondary-color);
     padding: 0.25rem 0.25rem;
     border-bottom-left-radius: 2rem;
+}
+
+.color{
+    color: var(--primary-color);
 }
 
 .nav-brand {
@@ -125,5 +129,6 @@ hr {
 }
 
 .footer-ul {
-    padding-inline-start: 0px;
+    padding-inline-start: 
+    0px;
 }
